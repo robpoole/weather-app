@@ -1,0 +1,5 @@
+export const GET_CITIES = 'GET_CITIES'
+export const CITIES_ERROR = 'CITIES_ERROR'
+export const SET_SELECTED_CITY = 'SET_SELECTED_CITY'
+export const GET_FORECAST = 'GET_FORECAST'
+export const FORECAST_ERROR = 'FORECAST_ERROR'
